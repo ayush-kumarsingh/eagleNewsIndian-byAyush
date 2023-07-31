@@ -31,10 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 # Preview of News App
 
-![Screenshot (31)-min](https://github.com/ayush-kumarsingh/eagleNewsIndian-byAyush/assets/91734803/da3daa24-46bb-4ac6-b5ca-b3c2ebaee9b3)
 
-
-![Screenshot (32)-min](https://github.com/ayush-kumarsingh/eagleNewsIndian-byAyush/assets/91734803/cf6738ec-da81-4a91-bd75-e2d43ece0dd9)
 
 
 
