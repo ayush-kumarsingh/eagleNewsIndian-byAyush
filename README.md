@@ -30,6 +30,13 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 # Preview of News App
+![Screenshot (31)](https://github.com/ayush-kumarsingh/eagleNewsIndian-byAyush/assets/91734803/d32d1423-b014-46fd-8713-018f44a8ccf2)
+
+
+![Screenshot (32)](https://github.com/ayush-kumarsingh/eagleNewsIndian-byAyush/assets/91734803/eb9aa628-3330-4152-91a6-b7b99c568195)
+
+
+
 
 
 
